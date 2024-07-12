@@ -2,8 +2,6 @@
 
 Python Real-time Face Detection
 
-<a href="https://www.coffeete.ir/alisharify7">Donate/Support [Optional]</a>
-
 ### lib:
 
 - OpenCV-Python
@@ -14,12 +12,6 @@ Python Real-time Face Detection
 
          https://github.com/opencv/opencv
          https://opencv.org/
-
-#### deepface github + doc:
-
-    https://github.com/serengil/deepface
-
-
 
 ## installation:
 
