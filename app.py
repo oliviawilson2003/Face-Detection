@@ -13,7 +13,7 @@ global CheckFlag
 CheckFlag = True
 faceMatch = False
 FaceData = None
-sourceImage = cv.imread("./Media/source.png")
+sourceImage = cv.imread("source.png")
 sourceName = "Will Smith"
 
 cap = cv.VideoCapture(0)
